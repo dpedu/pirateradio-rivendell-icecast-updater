@@ -2,6 +2,8 @@ udpupdate.py
 
 a utility to update icecast2 metadata from Rivendells RDAirplay application
 
+based off of a similar script by WITR 89.7
+
 Rivendell needs to be configured to send now & next parameters to 127.0.0.1:9999
 Configuration section: RDadmin-Hosts-Your Host-RDAirPlay-Now and Next:
 Data Format: %a --- %t
